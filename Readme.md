@@ -10,7 +10,12 @@
 - Ordered List Two
 - Ordered List Three
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+# Project Features
+
+This project has the following features:
+
+| Feature            | Description                              | Status       |
+|--------------------|------------------------------------------|-------------|
+| User Authentication| Allows users to log in and sign up       | ✅ Completed |
+| Data Visualization | Displays data using charts and graphs    | 🚧 In Progress |
+| API Integration    | Connects to a third-party API for data   | ❌ Not Started |
