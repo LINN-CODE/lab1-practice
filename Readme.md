@@ -1,1 +1,1 @@
-# ET0735 - Lab1 (Introduction to Git and Gith)
+# ET0735 - Lab1 (Introduction to Git and Github)
